@@ -1,6 +1,6 @@
 ## Hi there, I'm Konrad 👋 :rocket:
 
-<img src="images/myPhoto.png">
+<img src="https://raw.githubusercontent.com/KalitaKonrad/KalitaKonrad/master/images/myPhoto.png" alt="photo showing myself as emoji">
 
 ### About me
 
