@@ -1,6 +1,6 @@
 ## Hi there, I'm Konrad 👋 :rocket:
 
-![](images/myPhoto.png)
+![myPhoto](images/myPhoto.png)
 
 ### About me
 
