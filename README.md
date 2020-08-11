@@ -1,6 +1,6 @@
 ## Hi there, I'm Konrad 👋 :rocket:
 
-![myPhoto](images/myPhoto.png)
+<img src="images/myPhoto.png">
 
 ### About me
 
