@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a 3rd year <b>Computer Science student</b> :computer: :man_student: and a <b>React developer</b> :rocket: passionate about <b>software development</b> , <b>coding</b> and <b>creating WebApps </b>:fire: 
+I'm a 3rd year <b>Computer Science student</b> :computer: :man_student: and a <b>Software Engineer</b> :rocket: passionate about <b>software development</b> , <b>coding</b> and <b>creating WebApps </b>:fire: 
 
 In my free time I enjoy solving LeetCode tasks, working out at the gym and playing tennis :tennis:
 
