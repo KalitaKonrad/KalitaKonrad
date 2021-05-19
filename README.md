@@ -14,20 +14,19 @@ In my free time I enjoy solving LeetCode tasks, working out at the gym and playi
 - :man_student: Obtaining Bachelor's Degree in Computer Science
 - :innocent: Personal development
 
-### Languages and tools
+### I'm experienced in
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
-![React](https://img.icons8.com/ultraviolet/48/000000/react.png) 
+![React](https://img.icons8.com/ultraviolet/48/000000/react.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Postgresql](https://img.icons8.com/color/48/000000/postgreesql.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
-![Postgresql](https://img.icons8.com/color/48/000000/postgreesql.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ### Contact me
